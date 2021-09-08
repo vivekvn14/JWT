@@ -8,6 +8,7 @@ public class ProgramForFibonaaci {
 		int result=0;
 		int n1;
 		
+		
 		System.out.print(result+" "+tem);
 		for(int i=2;i<n;i++)
 		{
